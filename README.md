@@ -1,2 +1,1 @@
-# LingScripts
-Small scripts for pattern recognition and matching. 
+Some functions to make my homework that much more bearable. 
